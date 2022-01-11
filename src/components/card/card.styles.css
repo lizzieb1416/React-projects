@@ -1,0 +1,12 @@
+.card-container {
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    background-color: #FF7300;
+}
+
+.card-container:hover {
+    transform: scale(1.05);
+  }
+  

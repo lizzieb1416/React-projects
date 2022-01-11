@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Fried rice"
+    },
+    {
+        "id": 2,
+        "name": "Hot dog"
+    },
+    {
+        "id": 3,
+        "name": "Burguer"
+    },
+    {
+        "id": 4,
+        "name": "Burritos"
+    },
+    {
+        "id": 5,
+        "name": "Sushi"
+    }
+]
